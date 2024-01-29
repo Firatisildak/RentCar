@@ -1,3 +1,9 @@
+C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.sourcelink.json
 C:\Users\firat\source\repos\ReCapProject\Business\bin\Debug\net8.0\Business.deps.json
 C:\Users\firat\source\repos\ReCapProject\Business\bin\Debug\net8.0\Business.dll
 C:\Users\firat\source\repos\ReCapProject\Business\bin\Debug\net8.0\Business.pdb
@@ -5,12 +11,6 @@ C:\Users\firat\source\repos\ReCapProject\Business\bin\Debug\net8.0\DataAccess.dl
 C:\Users\firat\source\repos\ReCapProject\Business\bin\Debug\net8.0\Entities.dll
 C:\Users\firat\source\repos\ReCapProject\Business\bin\Debug\net8.0\DataAccess.pdb
 C:\Users\firat\source\repos\ReCapProject\Business\bin\Debug\net8.0\Entities.pdb
-C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
-C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
-C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
-C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
-C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.sourcelink.json
 C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
 C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\Business.dll
 C:\Users\firat\source\repos\ReCapProject\Business\obj\Debug\net8.0\refint\Business.dll
